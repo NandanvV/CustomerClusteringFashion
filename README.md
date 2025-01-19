@@ -4,7 +4,7 @@ This project focuses on customer segmentation for a fashion retail dataset using
 The goal is to identify distinct customer groups based on purchasing behavior, preferred payment methods, 
 and other features and analyze them.
 
---
+---
 
 ## Features
 - **Fashion Retail Sales Dataset**: Collection of data representing sales transactions from a clothing store:
