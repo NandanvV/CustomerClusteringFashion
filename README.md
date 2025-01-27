@@ -30,7 +30,7 @@ and other features and analyze them.
  
 - Programming Language: 3.12.5
   
-- Libraries: Pandas, Scikit learn, Matplotlib, Seaborn
+- Libraries: Pandas, Scikit learn, Matplotlib, Seaborn, Numpy
 
  ---
 
