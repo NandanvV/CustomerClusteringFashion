@@ -8,6 +8,7 @@ and other features and analyze them.
 
 ## Features
 - **Fashion Retail Sales Dataset**: Collection of data representing sales transactions from a clothing store:
+- [Fashion Retail Dataset on Kaggle](https://www.kaggle.com/datasets/fekihmea/fashion-retail-sales/data)
   - Customer Reference ID
   - Item Purchased: Name of the item
   - Purchase Amount (USD): Price
