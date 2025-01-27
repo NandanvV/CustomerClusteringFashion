@@ -28,9 +28,9 @@ and other features and analyze them.
   4. Optimal amount of clusters determined using the elbow method.
   5. Optimal amount of PCA components determined using Explained Variance Ratio.
  
-Programming Language: 3.12.5
+- Programming Language: 3.12.5
   
-Libraries: Pandas, Scikit learn, Matplotlib, Seaborn
+- Libraries: Pandas, Scikit learn, Matplotlib, Seaborn
 
  ---
 
